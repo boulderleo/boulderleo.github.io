@@ -1,0 +1,9 @@
+a {
+    font-size: 50px;
+    color: blue;
+}
+    
+a:hover {
+    font-size: 50px;
+    color: darkblue;
+}

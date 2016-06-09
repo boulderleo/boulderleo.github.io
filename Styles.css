@@ -1,0 +1,19 @@
+h1 {
+    color: darkblue; 
+    font-size: 100px;
+    text-align: center;
+    
+    padding: 20px;
+    margin: 25px;
+    font-family: 'Cookie', cursive;
+}
+
+body {
+    text-align: center;
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/cc/42/e6/cc42e6b07067bf5fbc84454c6f6c81a2.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Comfortaa', cursive;
+    color: blue
+    
+}

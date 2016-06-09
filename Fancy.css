@@ -1,0 +1,20 @@
+
+
+span {
+    color: blue;
+
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    
+    padding: 10px;
+    margin: 20px;
+}
+
+img {
+    width: 300px;
+    border: 20px dotted blue;
+    border-radius: 50px;
+ 
+}
+ 
